@@ -1,5 +1,6 @@
 # Kodluyoruz_VeriYapi
  Veri Yapılarına yönelik patika.dev Veri Yapıları ve Algoritmalar patika sonu ödevi
+ Bu dökğman Markdown ile oluşturuldu. Ama VS code üzerinde yaptığım değişiklikleri buraya aktarmada sorun yaşadım. neden acaba. aldım oraya yazdıklarımı buraya kopyaladım. Cevabı bulunca buraya yazarım. 
 
 # Kodluyoruz_VeriYapi
  Veri Yapılarına yönelik patika.dev Veri Yapıları ve Algoritmalar patika sonu ödevi
